@@ -1,2 +1,2 @@
-line1
-line2
+modify line1
+new line3
